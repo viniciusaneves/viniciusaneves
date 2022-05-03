@@ -1,6 +1,6 @@
 ## :man_technologist: Olá, meu nome é <strong>Vinicius Neves!</strong>
 
-> Bachelor in Computer Science. Developer since the age of 14.
+> I'm Bachelor in Computer Science. Developer since the age of 14.
 
 ----
 
