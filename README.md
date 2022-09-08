@@ -1,4 +1,4 @@
-## :man_technologist: Olá, meu nome é <strong>Vinicius Neves!</strong>
+## :man_technologist: Olá, meu nome é <strong>Vinicius Neves! (em construção)</strong>
 
 > I'm Bachelor in Computer Science. Developer since the age of 14.
 
