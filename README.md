@@ -6,7 +6,7 @@
 
 ## 🚀 Currently, I work with the following architectures:
 
-> Backend Architectures: Java (Spring Boot, Spring Batch), Python (FastAPI). RestAPI.
+> Backend Architectures: Java (Spring Boot, Spring Batch), Python (FastAPI). RestAPI. \n
 > Frontend Architectures: ReactJs, Bootstrap.
 > Database Architectures: Oracle, PostgreSQL, MongoDB.
 > Pipeline Architectures: Git, GitLab, CI/CD, Docker.
