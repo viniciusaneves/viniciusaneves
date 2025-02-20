@@ -14,4 +14,4 @@
 > **Pipeline Architectures:** Git, GitLab, CI/CD, Docker.  
 > **Cloud Architectures:** AWS  
 
-----
+
